@@ -1,0 +1,22 @@
+{
+  "name": "GHKit",
+  "version": "0.1.0",
+  "summary": "A short description of GHKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tttsymq/GHKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tttsymq": "1105661312@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/tttsymq/GHKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GHKit/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_GHKit_Example {
+  umbrella header "Pods-GHKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

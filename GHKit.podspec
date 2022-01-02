@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/tttsymq/GHKit'
+  s.homepage         = 'https://github.com/huiha6/GHKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'tttsymq' => '1105661312@qq.com' }
-  s.source           = { :git => 'https://github.com/tttsymq/GHKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:huiha6/GHKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

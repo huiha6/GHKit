@@ -1,0 +1,16 @@
+PODS:
+  - GHKit (0.1.0)
+
+DEPENDENCIES:
+  - GHKit (from `../`)
+
+EXTERNAL SOURCES:
+  GHKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GHKit: d52bd966156a23a9df8ae54c2b804ac2cf87dea3
+
+PODFILE CHECKSUM: cd2e4b809d22018ad6434e401b08a29da423da1b
+
+COCOAPODS: 1.9.3
