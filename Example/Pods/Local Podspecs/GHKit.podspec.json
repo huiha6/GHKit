@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of GHKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/tttsymq/GHKit",
+  "homepage": "https://github.com/huiha6/GHKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "tttsymq": "1105661312@qq.com"
+    "huiha6": "1105661312@qq.com"
   },
   "source": {
-    "git": "https://github.com/tttsymq/GHKit.git",
+    "git": "git@github.com:huiha6/GHKit.git",
     "tag": "0.1.0"
   },
   "platforms": {

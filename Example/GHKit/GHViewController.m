@@ -7,6 +7,8 @@
 //
 
 #import "GHViewController.h"
+#import <GHKit/Animal.h>
+#import <GHKit/Person.h>
 
 @interface GHViewController ()
 
@@ -18,6 +20,13 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor blueColor];
+    
+    Animal *animal = [Animal new];
+    [animal say];
+    
+    Person *person = [Person new];
+    [person play];
 }
 
 - (void)didReceiveMemoryWarning

@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "Animal.h"
+#import "Person.h"
 
 FOUNDATION_EXPORT double GHKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char GHKitVersionString[];
