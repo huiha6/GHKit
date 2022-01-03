@@ -1,5 +1,5 @@
 PODS:
-  - GHKit (0.1.0)
+  - GHKit (0.1.1)
 
 DEPENDENCIES:
   - GHKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GHKit: b092cb1c892aa8ea388b501a5133bdce978aa293
+  GHKit: 06457df287f571a17273b61d72c817c466620f28
 
 PODFILE CHECKSUM: cd2e4b809d22018ad6434e401b08a29da423da1b
 

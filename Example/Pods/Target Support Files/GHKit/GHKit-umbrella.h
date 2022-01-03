@@ -11,6 +11,7 @@
 #endif
 
 #import "Animal.h"
+#import "Dog.h"
 #import "Person.h"
 
 FOUNDATION_EXPORT double GHKitVersionNumber;
